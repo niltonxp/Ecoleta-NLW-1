@@ -7,13 +7,11 @@
   1. yarn install ou npm install (para instalar o node_modules)
   2. yarn dev ou npm dev (para iniciar o projeto)
 - No seu navegagor: http://localhost:3000
-
-![ecoleta-home](/public/assets/ecoleta-home.png.svg)
-
+![ecoleta-home](/public/assets/ecoleta-home.png)
 ## Funcionalidades
 - Casdastrar pontos de coleta
 - Buscar pontos de coletas por cidade
-
+## Tecnologias utilizadas
 ## FRONT-END
 ### Html5
 ### CSS3
@@ -26,7 +24,6 @@
 - If
 - For
 - Set
-
 ## BACK-END
 ### Node.js
 - Express
