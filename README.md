@@ -1,10 +1,18 @@
+## Projeto Ecoleta desenvolvido na semana NLW da Rockecseat
+## Objetivo
+### Favorecer a preservação do meio ambiente!
+## Como instalar
 
-#FRONT-END
-##Html5
-##CSS3
-##Javascript
+## Funcionalidades
+- Casdastrar pontos de coleta
+- Buscar pontos de coletas por cidade
+
+## FRONT-END
+### Html5
+### CSS3
+### Javascript
 - Fetch: consumir a API do IBGE para carregar UFS e municípios.
-##Nunjucks: templating engine.
+### Nunjucks: templating engine.
 - Includes
 - Extends
 - Block
@@ -12,9 +20,9 @@
 - For
 - Set
 
-#BACK-END
-##Node.js
+## BACK-END
+### Node.js
 - Express
 - Nodemon
-##SQLITE
+### SQLITE
 
