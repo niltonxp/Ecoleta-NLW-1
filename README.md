@@ -1,4 +1,3 @@
-![logo](/public/assets/logo.svg) </center>
 # Projeto Ecoleta desenvolvido na semana NLW da Rockecseat</center>
 ## Objetivo
  > Favorecer a preservação do meio ambiente!
@@ -9,7 +8,7 @@
   2. yarn dev ou npm dev (para iniciar o projeto)
 - No seu navegagor: http://localhost:3000
 
-![ecoleta-home](https://user-images.githubusercontent.com/22125059/83948148-c0185b00-a7f1-11ea-8225-91cce924c7b1.PNG)
+![ecoleta-home](/public/assets/ecoleta-home.png.svg)
 
 ## Funcionalidades
 - Casdastrar pontos de coleta
