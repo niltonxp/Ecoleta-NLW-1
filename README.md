@@ -8,7 +8,7 @@
   2. yarn dev ou npm dev (para iniciar o projeto)
 - No seu navegagor: http://localhost:3000
 
-![](/puclic/assets/ecoleta-home.png)
+![](/public/assets/ecoleta-home.png)
 
 ## Funcionalidades
 - Casdastrar pontos de coleta
