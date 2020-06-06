@@ -12,7 +12,7 @@
 - Casdastrar pontos de coleta
 - Buscar pontos de coletas por cidade
 ## Tecnologias utilizadas
-## FRONT-END
+### FRONT-END:
 ### Html5
 ### CSS3
 ### Javascript
@@ -24,7 +24,7 @@
 - If
 - For
 - Set
-## BACK-END
+### BACK-END:
 ### Node.js
 - Express
 - Nodemon
