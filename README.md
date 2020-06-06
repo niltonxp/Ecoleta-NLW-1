@@ -1,12 +1,14 @@
-## Projeto Ecoleta desenvolvido na semana NLW da Rockecseat
+# Projeto Ecoleta desenvolvido na semana NLW da Rockecseat
 ## Objetivo
-### Favorecer a preservação do meio ambiente!
+ > Favorecer a preservação do meio ambiente!
 ## Como instalar
 - Baixar ou clonar o projeto,
 - Executar o terminal na pasta do projeto e rodar:
-  yarn install ou npm install (para instalar o node_modules)
-  yarn dev ou npm dev (para iniciar o projeto)
+  1. yarn install ou npm install (para instalar o node_modules)
+  2. yarn dev ou npm dev (para iniciar o projeto)
 - No seu navegagor: http://localhost:3000
+
+![](/puclic/assets/ecoleta-home.png)
 
 ## Funcionalidades
 - Casdastrar pontos de coleta
