@@ -2,6 +2,11 @@
 ## Objetivo
 ### Favorecer a preservação do meio ambiente!
 ## Como instalar
+- Baixar ou clonar o projeto,
+- Executar o terminal na pasta do projeto e rodar:
+  yarn install ou npm install (para instalar o node_modules)
+  yarn dev ou npm dev (para iniciar o projeto)
+- No seu navegagor: http://localhost:3000
 
 ## Funcionalidades
 - Casdastrar pontos de coleta
